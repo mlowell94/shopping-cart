@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shopping-cart/static/css/main.d738b43f.css",
-    "main.js": "/shopping-cart/static/js/main.7e9d637e.js",
+    "main.js": "/shopping-cart/static/js/main.e573b6bc.js",
     "static/media/bg.jpg": "/shopping-cart/static/media/bg.f2470b0c976a6a08d3ed.jpg",
     "static/media/metal-scrap.png": "/shopping-cart/static/media/metal-scrap.d8ca3171d0cc35026d1b.png",
     "static/media/royal-insignia.png": "/shopping-cart/static/media/royal-insignia.fa2c1dbe0b2925f701b9.png",
@@ -29,10 +29,10 @@
     "static/media/shopping-bag.svg": "/shopping-cart/static/media/shopping-bag.5f718c4e2b54d2e1614f4dfdf36f7c14.svg",
     "static/media/x.svg": "/shopping-cart/static/media/x.628943169708889006ba71ddb8af6ad9.svg",
     "main.d738b43f.css.map": "/shopping-cart/static/css/main.d738b43f.css.map",
-    "main.7e9d637e.js.map": "/shopping-cart/static/js/main.7e9d637e.js.map"
+    "main.e573b6bc.js.map": "/shopping-cart/static/js/main.e573b6bc.js.map"
   },
   "entrypoints": [
     "static/css/main.d738b43f.css",
-    "static/js/main.7e9d637e.js"
+    "static/js/main.e573b6bc.js"
   ]
 }
