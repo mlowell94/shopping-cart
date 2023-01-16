@@ -21,7 +21,7 @@ const Cart = (props) => {
         </div>
         <div className='checkout'>
           <div className='checkout-button'>
-            <Link to = '/shopping-cart' onClick={ props.checkout }> CHECKOUT </Link>
+            <Link to = '/' onClick={ props.checkout }> CHECKOUT </Link>
           </div>
           <div className='total'>TOTAL: <span>{props.total + ' ₧'}</span></div>
         </div>
