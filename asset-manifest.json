@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.d738b43f.css",
+    "main.js": "/shopping-cart/static/js/main.e573b6bc.js",
+    "static/media/bg.jpg": "/shopping-cart/static/media/bg.f2470b0c976a6a08d3ed.jpg",
+    "static/media/metal-scrap.png": "/shopping-cart/static/media/metal-scrap.d8ca3171d0cc35026d1b.png",
+    "static/media/royal-insignia.png": "/shopping-cart/static/media/royal-insignia.fa2c1dbe0b2925f701b9.png",
+    "static/media/jet-ski-key.png": "/shopping-cart/static/media/jet-ski-key.929d11a602f288631c40.png",
+    "static/media/chem-fluid.png": "/shopping-cart/static/media/chem-fluid.b81e1c3143d3086f8ed9.png",
+    "static/media/beerstein.png": "/shopping-cart/static/media/beerstein.521cbf364a15ecc82c1e.png",
+    "static/media/gold-bangle-with-pearls.png": "/shopping-cart/static/media/gold-bangle-with-pearls.2bd25c789f340f467b7d.png",
+    "static/media/black-bass-l.png": "/shopping-cart/static/media/black-bass-l.80a7e10d133416e3fc20.png",
+    "static/media/brass-pocket-watch.png": "/shopping-cart/static/media/brass-pocket-watch.941a070571e91ea8f9e5.png",
+    "static/media/hourglass-with-gold-decor.png": "/shopping-cart/static/media/hourglass-with-gold-decor.e7d09204f79c4269e681.png",
+    "static/media/elegant-perfume-bottle.png": "/shopping-cart/static/media/elegant-perfume-bottle.71911fe6c9e2b697a63f.png",
+    "static/media/red-herb.png": "/shopping-cart/static/media/red-herb.1ced0a4e9a636f541669.png",
+    "static/media/green-herb.png": "/shopping-cart/static/media/green-herb.fb4ed02e7fd11f5dd374.png",
+    "static/media/first-aid-spray.png": "/shopping-cart/static/media/first-aid-spray.4341342667aed45aa04d.png",
+    "static/media/antique-pipe.png": "/shopping-cart/static/media/antique-pipe.ccab6c757c4facc878a0.png",
+    "static/media/gold-chicken-egg.png": "/shopping-cart/static/media/gold-chicken-egg.8b160390d0ee29079f2d.png",
+    "static/media/elegant-chessboard.png": "/shopping-cart/static/media/elegant-chessboard.9ee8800664d3aeb34c90.png",
+    "static/media/dirty-pearl-pendant.png": "/shopping-cart/static/media/dirty-pearl-pendant.e97b1609e9b4507713ec.png",
+    "static/media/bowgun.png": "/shopping-cart/static/media/bowgun.0da81855f287f2415355.png",
+    "static/media/staff-of-royalty.png": "/shopping-cart/static/media/staff-of-royalty.10b7185471786edd1746.png",
+    "static/media/greenherb.webp": "/shopping-cart/static/media/greenherb.0735950dcb1807e4583d.webp",
+    "index.html": "/shopping-cart/index.html",
+    "static/media/camera-off.svg": "/shopping-cart/static/media/camera-off.7dbefbfd70a575bc4e88.svg",
+    "static/media/shopping-cart.svg": "/shopping-cart/static/media/shopping-cart.4c668e177cc1e27df084b9d1029a7ae0.svg",
+    "static/media/shopping-bag.svg": "/shopping-cart/static/media/shopping-bag.5f718c4e2b54d2e1614f4dfdf36f7c14.svg",
+    "static/media/x.svg": "/shopping-cart/static/media/x.628943169708889006ba71ddb8af6ad9.svg",
+    "main.d738b43f.css.map": "/shopping-cart/static/css/main.d738b43f.css.map",
+    "main.e573b6bc.js.map": "/shopping-cart/static/js/main.e573b6bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d738b43f.css",
+    "static/js/main.e573b6bc.js"
+  ]
+}
