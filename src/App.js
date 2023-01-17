@@ -72,14 +72,14 @@ const App = () => {
   }
 
   return (
-    <BrowserRouter>
+    <HashRouter>
     <Nav cartClick = { handleClickCart }/>
     <Overlay active = { cartActive }/>
     <Cart active = { cartActive } cartClick = { handleClickCart } cart = { cart } 
     updateFromInput = {updateQuantityFromInput} updateFromButton = { updateQuantityFromButton }
     sumItem = { sumItem } total = { sumAll() } checkout = { checkout }/>
     <AnimatedRoutes addToCart={addToCart} />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
