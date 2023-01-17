@@ -72,7 +72,7 @@ const App = () => {
   }
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/shopping-cart'>
     <Nav cartClick = { handleClickCart }/>
     <Overlay active = { cartActive }/>
     <Cart active = { cartActive } cartClick = { handleClickCart } cart = { cart } 
