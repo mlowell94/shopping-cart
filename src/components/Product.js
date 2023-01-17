@@ -1,4 +1,5 @@
 import React from 'react'
+import { MouseParallaxContainer, MouseParallaxChild } from 'react-parallax-mouse';
 import { useParams } from 'react-router-dom';
 import { items } from '../items';
 import { motion } from 'framer-motion';
@@ -16,7 +17,13 @@ const ProductPage = (props) => {
       <div className='main'>
         <div className='main-inner'>
           <div>
-            <img src={require('../assets/'+product.imgURL)} alt = {product.blurb}/>
+            <MouseParallaxContainer resetOnLeave={true}>
+              <MouseParallaxChild factorX={-1.75} factorY={-1.75}>
+                <div className='main-img-container'>
+                  <img src={require('../assets/'+product.imgURL)} alt = {product.blurb}/>
+                </div>
+              </MouseParallaxChild>
+            </MouseParallaxContainer>
             <span><em>{product.blurb}</em></span>
             <div className='product-cart'>
               <span onClick={ () => props.addToCart(test.id, product.price, product.imgURL, product.name) } className='add-to-cart'>Add to Cart</span>
@@ -24,7 +31,7 @@ const ProductPage = (props) => {
           </div>
           <div className='info'>
             <h1>{product.name}</h1>
-            <h2>{product.price}</h2>
+            <h2>{product.price} ₧</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
               Eget nulla facilisi etiam dignissim. 

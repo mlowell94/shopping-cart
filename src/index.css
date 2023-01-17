@@ -465,8 +465,28 @@ input[type=number] {
   width: 90%;
 }
 
-.product-card:hover img {
-  width: 130%;
+.product-card:hover {
+  opacity: .75;
+}
+
+#mouse-parallax-container {
+  background-color: black;
+}
+
+.main-img-container {
+  width: 450px;
+  height: 400px;
+}
+
+@media screen and (max-width: 999px) {
+  .main-img-container {
+    width: 250px;
+    height: 200px;
+  }
+}
+
+.main-img-container img:hover {
+  width: 750px;
 }
 
 .product {
@@ -597,7 +617,7 @@ input[type=number] {
   }
 
   .main-inner > div img {
-    width: calc(270px + 10vw);
+    width: 250px;
   }
 
   .main-inner > div span {
